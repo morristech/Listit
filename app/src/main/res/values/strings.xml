@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">List it</string>
+    <string name="msg_welcome_title">Welcome to List it</string>
+    <string name="msg_welcome_description">An easy way of managing your daily\ntask and lists.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
